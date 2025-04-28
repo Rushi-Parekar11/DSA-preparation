@@ -1,6 +1,8 @@
 # DSA-preparation
 in that all the DSA resresource and imp algoritham.
 - patterns
+- DSA patterns
+
 
 
 ---
